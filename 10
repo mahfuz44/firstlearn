@@ -1,0 +1,22 @@
+<!doctype html>
+<html>
+    <head>
+<title>html learning with 10 class</title>
+    </head>
+    <bod>
+    <p><b>Lorem ipsum dolor sit amet consectetur adipisicing elit.</b> Voluptatibus dicta maxime, esse animi delectus iusto perferendis itaque, molestias enim quas atque quidem deleniti? Eos aliquid minima veniam, harum doloremque magni?</p>
+    <pre>
+        Hello everyone. This is Mahfuz.
+        I am mad by work.
+    </pre>
+    <p><b>Lorem ipsum dolor sit amet consectetur adipisicing elit.</b> Delectus, nobis. Reprehenderit ipsam distinctio id ipsa aspernatur officiis minus, blanditiis tenetur corporis, pariatur magni perferendis delectus in tempora et ex adipisci!</p>
+    <p> <b>Lorem ipsum dolor sit amet consectetur adipisicing elit.</b> Atque error repellendus eaque beatae repudiandae necessitatibus iste officiis quasi, et laborum asperiores nemo magni numquam odio explicabo excepturi quis? Blanditiis, deleniti?</p>
+    <p><b>Lorem ipsum dolor sit amet consectetur adipisicing elit.</b> Cumque iste architecto quasi facilis fugit odit <em>aspernatur</em> esse aut laborum, autem saepe error accusamus excepturi! Corporis natus ratione deserunt fugit necessitatibus.</p>
+    <p><img src="logo.png"</p>
+    <blockquote>Hello baby how are you? want to money do a work</blockquote>
+    <q>Hello hi i am mad by <cite>Mahfuz</cite></q>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Facere similique animi alias possimus eos adipisci laborum dolorem facilis recusandae aperiam, illo dignissimos impedit. Non dolorum voluptas eum incidunt debitis rem. Mollitia suscipit reiciendis harum tenetur ducimus amet corporis! Sint consectetur vel tempore ullam esse, ratione deserunt corporis maiores dolor! <abbr dir="Mahfuz">Deleniti</abbr> nam eveniet recusandae eligendi iste non, ratione perferendis quia sit, suscipit veritatis illum vitae? Omnis saepe eos, voluptates, necessitatibus corporis eveniet error cupiditate ab molestias magni fugiat molestiae velit distinctio! Molestiae placeat error ea facilis harum repellat eum neque, similique fugit libero a. Fuga excepturi asperiores dolor autem nemo repudiandae?</p>
+
+    <p><address>Mirpur 12, Pollobi, Dhaka, Bangladesh</address></p>
+    </bod>
+</html>
